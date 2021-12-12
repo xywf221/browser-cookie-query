@@ -15,3 +15,14 @@ queryEdge := NewBrowserCookieQuery("Microsoft Edge")
 queryEdge.Init()
 queryEdge.Query(".github.com")
 ```
+
+
+## Todo
+- [ ] Windows supported
+
+
+## Reference projects
+
+[pycookiecheat](https://github.com/n8henrie/pycookiecheat)
+
+[gookies](https://github.com/CCob/gookies)
